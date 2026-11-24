@@ -1,6 +1,5 @@
 # algovoi-multi-chain-wallet-auth
 
-
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 Multi-chain wallet authentication primitives, extracted from the AlgoVoi
